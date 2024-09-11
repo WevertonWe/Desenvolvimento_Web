@@ -1,2 +1,2 @@
 <?php
-define('INCLUDE_PATH', 'http://localhost:8080/Desenvolvimento_web/');
+define('INCLUDE_PATH', 'http://localhost/Desenvolvimento_web/');
